@@ -22,7 +22,10 @@ housing-price-regression/
 └── README.md # Project documentation
 
 ---
+## 📂 Dataset
+- `housing.csv` – https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
 
+---
 ## 🛠️ Tools & Libraries Used
 
 - **Python** – Programming language  
