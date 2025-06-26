@@ -1,0 +1,22 @@
+OUTPUT:
+
+Evaluation Metrics:
+MAE: 970043.40
+MSE: 1754318687330.66
+R² Score: 0.65
+
+Feature Coefficients:
+                            Feature   Coefficient
+2                         bathrooms  1.094445e+06
+9               airconditioning_yes  7.914267e+05
+8               hotwaterheating_yes  6.846499e+05
+10                     prefarea_yes  6.298906e+05
+3                           stories  4.074766e+05
+7                      basement_yes  3.902512e+05
+5                      mainroad_yes  3.679199e+05
+6                     guestroom_yes  2.316100e+05
+4                           parking  2.248419e+05
+1                          bedrooms  7.677870e+04
+0                              area  2.359688e+02
+11  furnishingstatus_semi-furnished -1.268818e+05
+12     furnishingstatus_unfurnished -4.136451e+05
